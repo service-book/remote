@@ -26,7 +26,7 @@ noRMZlgD6Rn4FdcmXK0d2CeXl1gt7fSkNrkYSPx7y+U=
 
 ## TEST
 
-олные настройки:
+полные настройки:
 ```
 9JSPjNGSGlGWI9EcslWTXFHb3FDcxkFWr8Gbh52QFl0aFpVW5YmSBJWbNlFSWJiOikXZrJCLiIiOikGchJCLigTOx4iMzIjL4ETMuYzNxIiOikXYsVmciwiI4kTMuIzMy4COxEjL2cTMiojI0N3boJye
 ```
