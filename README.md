@@ -1,10 +1,10 @@
 
 ### Server
 
-[Ссылка на скачивание](https://github.com/rustdesk/rustdesk/releases/tag/1.4.0)
-
 [Android](https://github.com/rustdesk/rustdesk/releases/download/1.4.0/rustdesk-1.4.0-universal-signed.apk) - Universal  
 [Windows](https://github.com/rustdesk/rustdesk/releases/download/1.4.0/rustdesk-1.4.0-x86_64.exe) 
+
+[Альтернативная ссылка на скачивание](https://github.com/rustdesk/rustdesk/releases/tag/1.4.0)
 
 ID и Ретронслятор: 
 ```
