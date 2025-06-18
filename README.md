@@ -6,6 +6,13 @@
 
 [Альтернативная ссылка на скачивание](https://github.com/rustdesk/rustdesk/releases/tag/1.4.0)
 
+Вставить полные настройки:
+```
+=0nI9U1K5dDeQNVWrJnTrNlZ3Q3ZxwGWlNkMkBzSY12YkZENuJlNEdGba1kUv5mI6ISeltmIsIiI6ISawFmIsIiMwIjL4UjL5IjL3EjMiojI5FGblJnIsIiMwIjL4UjL5IjL3EjMiojI0N3boJye
+```
+
+#### Или вручную
+
 ID и Ретронслятор: 
 ```
 217.29.58.202
@@ -14,11 +21,6 @@ ID и Ретронслятор:
 Ключ
 ```
 noRMZlgD6Rn4FdcmXK0d2CeXl1gt7fSkNrkYSPx7y+U=
-```
-
-Вставить полные настройки:
-```
-=0nI9U1K5dDeQNVWrJnTrNlZ3Q3ZxwGWlNkMkBzSY12YkZENuJlNEdGba1kUv5mI6ISeltmIsIiI6ISawFmIsIiMwIjL4UjL5IjL3EjMiojI5FGblJnIsIiMwIjL4UjL5IjL3EjMiojI0N3boJye
 ```
 
 ### TEST
