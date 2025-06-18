@@ -1,5 +1,5 @@
 
-### Server
+## Server
 
 [Android](https://github.com/rustdesk/rustdesk/releases/download/1.4.0/rustdesk-1.4.0-universal-signed.apk) - Universal  
 [Windows](https://github.com/rustdesk/rustdesk/releases/download/1.4.0/rustdesk-1.4.0-x86_64.exe) 
@@ -23,7 +23,8 @@ ID и Ретронслятор:
 noRMZlgD6Rn4FdcmXK0d2CeXl1gt7fSkNrkYSPx7y+U=
 ```
 
-### TEST
+
+## TEST
 
 Вставить полные настройки:
 ```
