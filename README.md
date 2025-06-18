@@ -1,8 +1,5 @@
 
 ### Server
-```
-noRMZlgD6Rn4FdcmXK0d2CeXl1gt7fSkNrkYSPx7y+U=
-```
 
 ID и Ретронслятор: 
 ```
