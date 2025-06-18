@@ -1,6 +1,8 @@
 
 ### Server
 
+[Ссылка на скачивание](https://github.com/rustdesk/rustdesk/releases/tag/1.4.0)
+
 ID и Ретронслятор: 
 ```
 217.29.58.202
